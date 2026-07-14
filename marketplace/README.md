@@ -12,7 +12,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 # Laravel Marketplace Assignment
 
 Name: Raj Mukherjee
-Email: your-email@example.com
+Email: rajmukherjee207@gmail.com
 Phone: +91-XXXXXXXXXX
 
 ## Requirements
